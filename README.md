@@ -31,16 +31,16 @@ Os exercícios estão localizados na pasta `exercicios/`, cada um em seu respect
 
 ```bash
 # Usando HTTPS
-git clone https://github.com/joaowatanabe/maispraiti-exercicios-01.git
+git clone https://github.com/joaowatanabe/maispraiti-exercicios-02.git
 
 # Ou usando SSH
-git clone git@github.com:joaowatanabe/maispraiti-exercicios-01.git
+git clone git@github.com:joaowatanabe/maispraiti-exercicios-02.git
 ```
 
 2. **Acesse a pasta do projeto:**
 
 ```bash
-cd maispraiti-exercicios-01
+cd maispraiti-exercicios-02
 ```
 
 3. **Instale a dependência (`prompt-sync`):**
